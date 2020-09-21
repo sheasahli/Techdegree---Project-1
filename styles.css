@@ -74,10 +74,11 @@ header .profile-image {
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.2) rotate(20deg);
 }
 .tag {
-  background-color: #efefef;
+  background-color: #FFFFFF;
+  font-family: Yeseva One;
   color: black;
   padding: 10px;
   border-radius: 5px;
@@ -85,7 +86,7 @@ header .profile-image:hover {
   margin: 10px auto;
 }
 .location {
-  background-color: #222;
+  background-color: #556B2F;
   color: yellow;
 }
 .card {
