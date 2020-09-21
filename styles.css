@@ -76,6 +76,9 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.2) rotate(20deg);
 }
+  h2 {
+    text-transform: uppercase;
+}
 .tag {
   background-color: #FFFFFF;
   font-family: Yeseva One;
