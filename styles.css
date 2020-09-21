@@ -124,6 +124,9 @@ ul.skills {
 .skills li:nth-child(odd) {
   background: #556b2f;
 }
+h3 {
+  font-family: Yeseva One;
+}
 
 footer {
   width: 100%;
