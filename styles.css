@@ -100,11 +100,12 @@ header .profile-image:hover {
   text-align: center;
   background: #fff;
   border-bottom: 4px solid #ccc;
+  border: solid black 10px;
   border-radius: 6px;
   transition: all .5s;
 }
 .card:hover {
-  border-color: #FFD700;
+  border-color: #FFFF00;
 }
 
 ul.skills {
