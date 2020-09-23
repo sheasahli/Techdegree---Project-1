@@ -117,8 +117,9 @@ header .profile-image:hover {
 }
 
 .stock-image {
-  width: 200px;
+  width: 250px;
   height: 150px;
+  margin: 20px;
 }
 
 .selvage-logo {
