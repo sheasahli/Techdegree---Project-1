@@ -108,6 +108,17 @@ header .profile-image:hover {
   border-color: #FFFF00;
 }
 
+.stock-image {
+  width: 200px;
+  height: 150px;
+}
+
+.selvage-logo {
+  width: 250px;
+  height: 200px;
+
+}
+
 ul.skills {
   padding: 0;
   text-align: center;
