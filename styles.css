@@ -80,6 +80,7 @@ header .profile-image:hover {
     text-transform: uppercase;
     font-family: Yeseva One;
 }
+
 .tag {
   background-color: #FFFFFF;
   font-family: Yeseva One;
@@ -138,6 +139,8 @@ ul.skills {
 }
 h3 {
   font-family: Yeseva One;
+}
+
 }
 
 footer {
