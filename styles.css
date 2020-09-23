@@ -28,7 +28,7 @@ a:hover {
   background: #FFFACD;
   min-height: 30px;
   padding: 10px;
-  position: fixed;
+  position: top;
   text-align: center;
 }
 .nav {
@@ -52,7 +52,7 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: white
+  color: #DAA520
 }
 
 header {
@@ -76,6 +76,13 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.2) rotate(20deg);
 }
+.construction {
+  text-align: center;
+  padding: 30px;
+  font-family: "Yeseva One";
+  color: black;
+}
+
   h2 {
     text-transform: uppercase;
     font-family: "Yeseva One";
@@ -118,6 +125,12 @@ header .profile-image:hover {
   width: 250px;
   height: 200px;
 
+}
+.resume {
+  margin-top: 50px;
+  margin-bottom: 100px;
+  width: 1000px;
+  height: 1350px;
 }
 
 ul.skills {
