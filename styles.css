@@ -28,7 +28,8 @@ a:hover {
   background: #FFFACD;
   min-height: 30px;
   padding: 10px;
-  position: top;
+  position: fixed;
+  top: 0;
   text-align: center;
 }
 .nav {
@@ -78,7 +79,7 @@ header .profile-image:hover {
 }
 .construction {
   text-align: center;
-  padding: 30px;
+  padding: 50px;
   font-family: "Yeseva One";
   color: black;
 }
@@ -128,10 +129,10 @@ header .profile-image:hover {
 
 }
 .resume {
-  margin-top: 50px;
+  margin-top: 100px;
   margin-bottom: 100px;
   width: 1000px;
-  height: 1350px;
+  height: 1300px;
 }
 
 ul.skills {
