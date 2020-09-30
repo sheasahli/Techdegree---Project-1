@@ -23,7 +23,7 @@ a:hover {
 
 /* Section Styles */
 
-.navigation-banner {
+.nav {
   width: 100%;
   background: #FFFACD;
   min-height: 30px;
@@ -84,7 +84,7 @@ header .profile-image:hover {
   color: black;
 }
 
-  h2 {
+h2 {
     text-transform: uppercase;
     font-family: "Yeseva One";
 }
